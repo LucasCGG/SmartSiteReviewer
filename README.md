@@ -34,7 +34,10 @@ SmartSiteReviewer is a Python application that leverages the OpenAI API to analy
 
 3. Ensure you have a valid OpenAI API key.
 
+4. Create .env and add "CHATGPT_API_KEY"
+
 ## Usage
+
 
 1. Run the application:
    ```bash
